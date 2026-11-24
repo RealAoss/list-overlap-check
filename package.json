@@ -1,0 +1,15 @@
+{
+  "name": "list-overlap-check",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Compare two lists and identify exact matches or entries unique to one list.",
+  "license": "MIT",
+  "type": "module",
+  "exports": "./transform.mjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
